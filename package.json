@@ -1,0 +1,27 @@
+{
+  "name": "financial-dashboard",
+  "version": "1.0.0",
+  "description": "A free, open-source personal finance app that helps users understand their spending, manage budgets, and get AI-powered insights—without subscriptions.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guna8888/Financial-Dashboard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/guna8888/Financial-Dashboard/issues"
+  },
+  "homepage": "https://github.com/guna8888/Financial-Dashboard#readme",
+  "devDependencies": {
+    "prettier": "^3.9.8"
+  }
+}
